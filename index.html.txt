@@ -1,0 +1,17 @@
+<div class="left">
+  <img src="C:\Users\TM\OneDrive\Desktop\IMG_20250502_171622"> alt="Profile photo" style="width:160px;height:160px;border-radius:50%;object-fit:cover;box-shadow:0 6px 18px rgba(0,0,0,0.12);">
+  
+  <h2 style="font-size:36px;margin:14px 0 6px 0;color:#222;">Radit Raiyan</h2>
+  
+  <p style="font-size:18px;color:<!-- Personal Profile -->
+#444;max-width:420px;line-height:1.35;">
+    Hi — I’m Radit. I’m a web developer, video editor, and creator of mystery and science-related content. Here, you can explore my portfolio, projects, and get in touch with me.
+  </p>
+
+  <div style="margin-top:14px;">
+    <a href="https://www.instagram.com/raditraiyansiam/" target="_blank" style="margin-right:8px;text-decoration:none;padding:10px 14px;border-radius:8px;background:#1877f2;color:#fff;font-weight:700;">Instagram</a>
+    <a href="https://www.youtube.com/@RaditRaiyan-x8b" target="_blank" style="text-decoration:none;padding:10px 14px;border-radius:8px;background:#42b72a;color:#fff;font-weight:700;">YouTube</a>
+  </div>
+
+  <p style="margin-top:18px;font-size:13px;color:#8b949e;">raditraiyan123@gmail.com</p>
+</div>
